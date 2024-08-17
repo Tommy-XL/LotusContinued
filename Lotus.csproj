@@ -4,7 +4,7 @@
     <Description>Project Lotus</Description>
     <Authors>Tealeaf, Discussions</Authors>
     <langVersion>latest</langVersion>
-    <AmongUs>D:\Games\AmongUs\steam\Lotus</AmongUs>
+    <!--<AmongUs>D:\Games\AmongUs\steam\Lotus</AmongUs>-->
     <RootNamespace>Lotus</RootNamespace>
     <Nullable>enable</Nullable>
     <GenerateAssemblyFileVersionAttribute>false</GenerateAssemblyFileVersionAttribute>
